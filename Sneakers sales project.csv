@@ -1,0 +1,131 @@
+﻿BrandName,ShoeModel,Color,SizeNumber,RetailPrice,ResalePrice,CustomerName,City,Country,PhoneNumber,ShoeCondition,PaymentMethod,PurchaseDate,SalesChannel,SellMethod,Quantity
+Nike,Zoom,Brown,42,330,530,Yonatan Azulay,Eilat,Israel,539012345,Like New,Credit Card,01/12/2024,Online,Retail,1
+Puma,Cali,Green,41,170,260,Ariel Giladov,Jerusalem,Israel,522345678,Used,Cash,14/02/2025,In Store,Resale,1
+Saucony,Kinvara,Grey,41,230,350,Vincent Kha,Netanya,Israel,555678901,Like New,Credit Card,01/07/2025,Online,Retail,1
+Skechers,D'Lites,Grey,44,300,480,Lucas Martin,Paris,France,612345678,Used,Cash,19/09/2025,In Store,Resale,1
+Vans,Sk8-Hi,Olive,42,300,500,Yuki Tanaka,Tokyo,Japan,701112223,Like New,Credit Card,26/05/2025,Online,Retail,1
+New Balance,550,Black,42,120,180,Igal Stolyrov,Tel Aviv,Israel,501234567,Brand New,Credit Card,01/07/2024,Online,Retail,1
+Nike,Pegasus,Black,45,190,300,Gabby Simahov,Eilat,Israel,544567890,Used,Cash,02/11/2024,In Store,Resale,1
+Saucony,Shadow 6000,Cream,44,210,320,Gabby Simahov,Eilat,Israel,544567890,Brand New,Cash,25/06/2025,In Store,Resale,1
+Saucony,Jazz Original,Blue,42,190,280,Nati Mashash,Haifa,Israel,533456789,Used,Credit Card,19/06/2025,Online,Retail,1
+Nike,SB,White,45,320,500,Lucas Martin,Paris,France,612345678,Used,Cash,29/09/2024,In Store,Resale,1
+Converse,Chuck 70,Grey,43,250,400,Oliver Green,Manchester,UK,7711223344,Used,Credit Card,14/05/2025,Online,Retail,2
+Puma,Suede,Beige,43,310,510,Lucas Martin,Paris,France,612345678,Like New,Cash,22/01/2025,In Store,Resale,1
+Adidas,Ultraboost,Grey,42,190,280,Michael Davis,Chicago,USA,3125558899,Brand New,Credit Card,01/09/2024,Online,Retail,1
+ASICS,Gel Kayano,Black,41,320,530,Ido Peretz,Haifa,Israel,528901234,Used,Cash,21/03/2025,In Store,Resale,2
+Balenciaga,Defender,MultiColor,44,160,250,Nati Mashash,Haifa,Israel,533456789,Brand New,Credit Card,31/07/2025,Online,Retail,1
+Nike,Tiempo,Grey,44,180,280,Michael Davis,Chicago,USA,3125558899,Used,Credit Card,24/12/2024,Online,Retail,1
+Yeezy,Yeezy380,Black,42,280,460,Oliver Green,Manchester,UK,7711223344,Brand New,Credit Card,16/01/2025,Online,Retail,1
+New Balance,2002R,Green,42,220,350,Daniel Zfania,Tel Aviv,Israel,586789012,Used,Cash,22/07/2024,In Store,Resale,1
+Yeezy,Yeezy500,Cream,45,220,360,Ryan Taylor,Las Vegas,USA,7025551122,Like New,Credit Card,05/01/2025,Online,Retail,1
+On,Cloud 5,Grey,44,210,340,Kevin Brown,Miami,USA,3055554433,Brand New,Cash,25/12/2025,In Store,Resale,1
+Balenciaga,3XL,Khaki,42,220,350,Daniel Zfania,Tel Aviv,Israel,586789012,Brand New,Cash,30/04/2025,In Store,Retail,2
+Skechers,Uno,Beige,43,160,240,Ariel Giladov,Jerusalem,Israel,522345678,Brand New,Cash,13/10/2025,In Store,Resale,1
+Nike,Vomero,Grey,43,270,430,Adir Shisha,Jerusalem,Israel,507890123,Used,Credit Card,20/11/2024,Online,Retail,1
+ASICS,Gel Lyte III,Grey,44,350,580,Yonatan Azulay,Eilat,Israel,539012345,Brand New,Credit Card,27/03/2025,Online,Retail,1
+Nike,Metcon,Olive,45,360,620,Gal Avraham,Netanya,Israel,540123456,Used,Cash,07/12/2024,In Store,Resale,2
+Salomon,XT-4,Blue,45,190,300,Kevin Brown,Miami,USA,3055554433,Like New,Cash,25/08/2025,In Store,Resale,1
+Saucony,Triumph,Navy,43,260,400,Daniel Zfania,Tel Aviv,Israel,586789012,Used,Cash,07/07/2025,In Store,Resale,2
+Nike,Dunk,Grey,41,380,650,Haruto Sato,Osaka,Japan,702223334,Like New,Cash,10/10/2024,In Store,Resale,1
+Yeezy,Yeezy700,Navy,41,250,410,Liam Walker,London,UK,7700123456,Used,Cash,10/01/2025,In Store,Resale,1
+Hoka,Clifton,Beige,45,320,500,Ido Peretz,Haifa,Israel,528901234,Like New,Cash,19/07/2025,In Store,Resale,1
+Hoka,Speedgoat,Olive,41,380,650,Gal Avraham,Netanya,Israel,540123456,Brand New,Cash,01/08/2025,In Store,Resale,2
+Nike,React,Blue,44,300,480,Ido Peretz,Haifa,Israel,528901234,Brand New,Cash,26/11/2024,In Store,Resale,1
+Skechers,Max Cushioning,Brown,41,140,210,Igal Stolyrov,Tel Aviv,Israel,501234567,Used,Credit Card,07/10/2025,Online,Retail,1
+Adidas,Campus,Navy,41,350,600,Gal Avraham,Netanya,Israel,540123456,Brand New,Cash,14/08/2024,In Store,Resale,1
+Reebok,Nano X,Olive,45,230,380,Vincent Kha,Netanya,Israel,555678901,Used,Credit Card,03/03/2025,Online,Retail,1
+Jordan,Air Jordan 1,Olive,44,210,320,Kevin Brown,Miami,USA,3055554433,Like New,Cash,05/09/2024,In Store,Resale,1
+Reebok,Zig Kinetica,Red,42,260,430,Daniel Zfania,Tel Aviv,Israel,586789012,Brand New,Cash,09/03/2025,In Store,Resale,1
+Converse,Weapon,White,45,200,320,Ryan Taylor,Las Vegas,USA,7025551122,Brand New,Credit Card,02/05/2025,Online,Retail,1
+Nike,Shox,Cream,42,240,380,Daniel Zfania,Tel Aviv,Israel,586789012,Like New,Cash,14/11/2024,In Store,Resale,1
+Vans,Era,White,45,150,220,Igal Stolyrov,Tel Aviv,Israel,501234567,Brand New,Credit Card,07/06/2025,Online,Retail,2
+Nike,Cortez,Beige,44,170,260,Nati Mashash,Haifa,Israel,533456789,Like New,Credit Card,28/10/2024,Online,Retail,1
+Converse,One Star,Brown,42,220,350,Liam Walker,London,UK,7700123456,Like New,Cash,08/05/2025,In Store,Resale,1
+ASICS,Gel Quantum,Beige,42,120,180,Ethan Smith,New York,USA,9175551023,Used,Credit Card,08/04/2025,Online,Retail,1
+Reebok,Club C,Black,43,190,300,Nati Mashash,Haifa,Israel,533456789,Brand New,Credit Card,20/02/2025,Online,Retail,2
+Balenciaga,Speed Trainer,Gold,43,140,220,Ariel Giladov,Jerusalem,Israel,522345678,Used,Cash,31/08/2025,In Store,Resale,2
+Adidas,Samba,Beige,44,280,450,Ido Peretz,Haifa,Israel,528901234,Like New,Cash,03/08/2024,In Store,Resale,1
+Balenciaga,Runner,Charcoal,41,180,280,Gabby Simahov,Eilat,Israel,544567890,Like New,Cash,30/06/2025,In Store,Resale,1
+Jordan,Air Jordan 3,Cream,41,230,350,Ryan Taylor,Las Vegas,USA,7025551122,Used,Credit Card,11/09/2024,Online,Retail,1
+On,Cloudswift,Beige,42,260,430,Liam Walker,London,UK,7700123456,Used,Cash,29/12/2025,In Store,Resale,1
+Under Armour,Charged Assert,Grey,45,220,360,Vincent Kha,Netanya,Israel,555678901,Brand New,Credit Card,01/11/2025,Online,Retail,1
+On,Cloudnova,Black,44,350,580,Yuki Tanaka,Tokyo,Japan,701112223,Used,Credit Card,30/11/2025,Online,Retail,1
+Nike,Air Max,Red,44,340,550,Yuki Tanaka,Tokyo,Japan,701112223,Brand New,Credit Card,04/10/2024,Online,Retail,1
+Hoka,Mach,Grey,42,130,200,Ethan Smith,New York,USA,9175551023,Like New,Credit Card,07/08/2025,Online,Retail,1
+On,Cloudmonster,Green,45,230,380,Ryan Taylor,Las Vegas,USA,7025551122,Like New,Credit Card,28/12/2025,Online,Retail,1
+Crocs,Crush Clog,White,41,170,260,Chris Wilson,Los Angeles,USA,3105557788,Like New,Cash,13/12/2025,In Store,Resale,1
+Balenciaga,Cargo,Tan,45,200,320,Vincent Kha,Netanya,Israel,555678901,Used,Credit Card,31/05/2025,Online,Resale,1
+Hoka,Arahi,Cream,43,150,230,Chris Wilson,Los Angeles,USA,3105557788,Used,Cash,13/08/2025,In Store,Resale,1
+Jordan,Air Jordan 11,Black,42,290,450,Oliver Green,Manchester,UK,7711223344,Like New,Credit Card,24/09/2024,Online,Retail,1
+ASICS,Gel Nimbus,Navy,45,380,660,Gal Avraham,Netanya,Israel,540123456,Like New,Cash,02/04/2025,In Store,Resale,1
+Vans,Old Skool,Green,44,280,450,Lucas Martin,Paris,France,612345678,Brand New,Cash,20/05/2025,In Store,Resale,1
+Adidas,Gazelle,Cream,42,300,500,Yonatan Azulay,Eilat,Israel,539012345,Used,Credit Card,08/08/2024,Online,Retail,1
+Skechers,Go Walk,Black,45,360,620,Haruto Sato,Osaka,Japan,702223334,Like New,Cash,01/10/2025,In Store,Resale,1
+Adidas,Superstar,Black,45,150,220,Ethan Smith,New York,USA,9175551023,Like New,Credit Card,20/08/2024,Online,Retail,1
+Crocs,Echo Clog,Red,44,340,560,Yonatan Azulay,Eilat,Israel,539012345,Like New,Credit Card,25/11/2025,Online,Retail,1
+New Balance,992,Red,45,200,320,Vincent Kha,Netanya,Israel,555678901,Like New,Credit Card,18/07/2024,Online,Retail,1
+Nike,Huarache,White,41,210,340,Vincent Kha,Netanya,Israel,555678901,Brand New,Credit Card,08/11/2024,Online,Retail,2
+Puma,Future Rider,Grey,42,150,220,Igal Stolyrov,Tel Aviv,Israel,501234567,Like New,Credit Card,09/02/2025,Online,Retail,1
+Vans,Slip-On,Red,43,170,250,Ariel Giladov,Jerusalem,Israel,522345678,Like New,Cash,13/06/2025,In Store,Resale,1
+Crocs,Classic Clog,Blue,43,310,510,Ido Peretz,Haifa,Israel,528901234,Brand New,Cash,19/11/2025,In Store,Resale,2
+Hoka,Bondi,White,44,340,550,Yonatan Azulay,Eilat,Israel,539012345,Used,Credit Card,25/07/2025,Online,Retail,1
+New Balance,990,Grey,44,160,250,Nati Mashash,Haifa,Israel,533456789,Used,Credit Card,09/07/2024,Online,Retail,1
+Balenciaga,Track,Silver,42,120,180,Igal Stolyrov,Tel Aviv,Israel,501234567,Like New,Credit Card,30/09/2025,Online,Retail,1
+ASICS,Novablast,Blue,43,140,220,Chris Wilson,Los Angeles,USA,3105557788,Brand New,Cash,14/04/2025,In Store,Resale,2
+On,Cloudrunner,Brown,43,290,480,Oliver Green,Manchester,UK,7711223344,Brand New,Credit Card,30/12/2025,Online,Retail,2
+Salomon,XT-6,Black,44,170,260,Michael Davis,Chicago,USA,3125558899,Brand New,Credit Card,19/08/2025,Online,Retail,1
+Balenciaga,Triple S,White,45,380,660,Haruto Sato,Osaka,Japan,702223334,Brand New,Cash,31/10/2025,In Store,Resale,1
+Under Armour,HOVR Phantom,White,42,200,320,Gabby Simahov,Eilat,Israel,544567890,Used,Cash,25/10/2025,In Store,Resale,2
+Vans,Authentic,Black,41,350,600,Haruto Sato,Osaka,Japan,702223334,Used,Cash,01/06/2025,In Store,Resale,1
+On,Cloud,Black,43,190,300,Michael Davis,Chicago,USA,3125558899,Used,Credit Card,19/12/2025,Online,Retail,2
+Converse,Chuck Taylor,Cream,44,160,250,Michael Davis,Chicago,USA,3125558899,Like New,Credit Card,20/04/2025,Online,Retail,1
+Nike,Blazer,Green,43,150,230,Ariel Giladov,Jerusalem,Israel,522345678,Brand New,Cash,22/10/2024,In Store,Resale,1
+New Balance,991,Blue,41,180,280,Gabby Simahov,Eilat,Israel,544567890,Brand New,Cash,12/07/2024,In Store,Resale,2
+Jordan,Air Jordan 4,Blue,43,260,400,Liam Walker,London,UK,7700123456,Brand New,Cash,18/09/2024,In Store,Resale,2
+Nike,Phantom,White,43,160,240,Chris Wilson,Los Angeles,USA,3105557788,Like New,Cash,19/12/2024,In Store,Resale,1
+Crocs,LiteRide,Navy,42,150,220,Ethan Smith,New York,USA,9175551023,Brand New,Credit Card,07/12/2025,Online,Retail,1
+Under Armour,Curry Flow,Cream,44,180,280,Nati Mashash,Haifa,Israel,533456789,Like New,Credit Card,19/10/2025,Online,Retail,1
+Adidas,Forum,White,43,170,250,Chris Wilson,Los Angeles,USA,3105557788,Used,Cash,25/08/2024,In Store,Resale,2
+Reebok,Question Mid,White,43,290,480,Adir Shisha,Jerusalem,Israel,507890123,Like New,Credit Card,15/03/2025,Online,Retail,1
+Puma,Clyde,White,45,370,640,Haruto Sato,Osaka,Japan,702223334,Brand New,Cash,03/02/2025,In Store,Resale,1
+Under Armour,Spawn,Black,41,250,410,Daniel Zfania,Tel Aviv,Israel,586789012,Like New,Cash,07/11/2025,In Store,Resale,1
+Converse,Run Star Hike,Black,41,180,280,Kevin Brown,Miami,USA,3055554433,Used,Cash,26/04/2025,In Store,Resale,1
+Nike,Air Force,Navy,42,130,200,Igal Stolyrov,Tel Aviv,Israel,501234567,Used,Credit Card,16/10/2024,Online,Retail,2
+Reebok,Classic Leather,Cream,44,210,340,Gabby Simahov,Eilat,Israel,544567890,Like New,Cash,26/02/2025,In Store,Resale,1
+Under Armour,TriBase Reign,Olive,42,280,460,Adir Shisha,Jerusalem,Israel,507890123,Used,Credit Card,13/11/2025,Online,Retail,1
+Saucony,Ride,Black,42,290,450,Adir Shisha,Jerusalem,Israel,507890123,Brand New,Credit Card,13/07/2025,Online,Retail,1
+Salomon,ACS Pro,Red,41,210,340,Ryan Taylor,Las Vegas,USA,7025551122,Used,Credit Card,01/09/2025,Online,Retail,2
+New Balance,9060,Brown,43,250,400,Adir Shisha,Jerusalem,Israel,507890123,Brand New,Credit Card,28/07/2024,Online,Retail,2
+New Balance,574,White,43,140,220,Ariel Giladov,Jerusalem,Israel,522345678,Like New,Cash,05/07/2024,In Store,Resale,1
+Puma,RS-X,Blue,44,340,560,Yuki Tanaka,Tokyo,Japan,701112223,Used,Credit Card,28/01/2025,Online,Retail,2
+On,Cloudsurfer,Cream,41,320,530,Lucas Martin,Paris,France,612345678,Like New,Cash,31/12/2025,In Store,Resale,1
+Yeezy,Yeezy350,Red,42,200,320,Kevin Brown,Miami,USA,3055554433,Brand New,Cash,30/12/2024,In Store,Resale,2
+Nike,Mercurial,Black,41,140,210,Ethan Smith,New York,USA,9175551023,Brand New,Credit Card,13/12/2024,Online,Retail,1
+Salomon,Sense Ride,Green,43,270,430,Oliver Green,Manchester,UK,7711223344,Like New,Credit Card,13/09/2025,Online,Retail,1
+Skechers,Arch Fit,Navy,42,330,530,Yuki Tanaka,Tokyo,Japan,701112223,Brand New,Credit Card,25/09/2025,Online,Retail,2
+Crocs,Pollex Clog,Cream,45,370,640,Gal Avraham,Netanya,Israel,540123456,Used,Cash,01/12/2025,In Store,Resale,1
+Salomon,Speedcross,White,42,240,380,Liam Walker,London,UK,7700123456,Brand New,Cash,07/09/2025,In Store,Resale,1
+Skechers,D'Lites,Grey,44,300,480,Lucas Martin,Paris,France,612345678,Used,Cash,19/09/2025,In Store,Resale,1
+Vans,Sk8-Hi,Olive,42,300,500,Yuki Tanaka,Tokyo,Japan,701112223,Like New,Credit Card,26/05/2025,Online,Retail,1
+New Balance,550,Black,42,120,180,Igal Stolyrov,Tel Aviv,Israel,501234567,Brand New,Credit Card,01/07/2024,Online,Retail,1
+Nike,Pegasus,Black,45,190,300,Gabby Simahov,Eilat,Israel,544567890,Used,Cash,02/11/2024,In Store,Resale,1
+Saucony,Shadow 6000,Cream,44,210,320,Gabby Simahov,Eilat,Israel,544567890,Brand New,Cash,25/06/2025,In Store,Resale,1
+On,Cloudswift,Beige,42,260,430,Liam Walker,London,UK,7700123456,Used,Cash,29/12/2025,In Store,Resale,1
+Under Armour,Charged Assert,Grey,45,220,360,Vincent Kha,Netanya,Israel,555678901,Brand New,Credit Card,01/11/2025,Online,Retail,1
+On,Cloudnova,Black,44,350,580,Yuki Tanaka,Tokyo,Japan,701112223,Used,Credit Card,30/11/2025,Online,Retail,1
+Nike,Air Max,Red,44,340,550,Yuki Tanaka,Tokyo,Japan,701112223,Brand New,Credit Card,04/10/2024,Online,Retail,1
+Hoka,Mach,Grey,42,130,200,Ethan Smith,New York,USA,9175551023,Like New,Credit Card,07/08/2025,Online,Retail,1
+On,Cloudmonster,Green,45,230,380,Ryan Taylor,Las Vegas,USA,7025551122,Like New,Credit Card,28/12/2025,Online,Retail,1
+Crocs,Crush Clog,White,41,170,260,Chris Wilson,Los Angeles,USA,3105557788,Like New,Cash,13/12/2025,In Store,Resale,1
+Balenciaga,Cargo,Tan,45,200,320,Vincent Kha,Netanya,Israel,555678901,Used,Credit Card,31/05/2025,Online,Resale,1
+Hoka,Arahi,Cream,43,150,230,Chris Wilson,Los Angeles,USA,3105557788,Used,Cash,13/08/2025,In Store,Resale,1
+Jordan,Air Jordan 11,Black,42,290,450,Oliver Green,Manchester,UK,7711223344,Like New,Credit Card,24/09/2024,Online,Retail,1
+ASICS,Gel Nimbus,Navy,45,380,660,Gal Avraham,Netanya,Israel,540123456,Like New,Cash,02/04/2025,In Store,Resale,1
+Crocs,Classic Clog,Blue,43,310,510,Ido Peretz,Haifa,Israel,528901234,Brand New,Cash,19/11/2025,In Store,Resale,2
+Hoka,Bondi,White,44,340,550,Yonatan Azulay,Eilat,Israel,539012345,Used,Credit Card,25/07/2025,Online,Retail,1
+New Balance,990,Grey,44,160,250,Nati Mashash,Haifa,Israel,533456789,Used,Credit Card,09/07/2024,Online,Retail,1
+Balenciaga,Track,Silver,42,120,180,Igal Stolyrov,Tel Aviv,Israel,501234567,Like New,Credit Card,30/09/2025,Online,Retail,1
+ASICS,Novablast,Blue,43,140,220,Chris Wilson,Los Angeles,USA,3105557788,Brand New,Cash,14/04/2025,In Store,Resale,2
+On,Cloudrunner,Brown,43,290,480,Oliver Green,Manchester,UK,7711223344,Brand New,Credit Card,30/12/2025,Online,Retail,2
+Salomon,XT-6,Black,44,170,260,Michael Davis,Chicago,USA,3125558899,Brand New,Credit Card,19/08/2025,Online,Retail,1
+Balenciaga,Triple S,White,45,380,660,Haruto Sato,Osaka,Japan,702223334,Brand New,Cash,31/10/2025,In Store,Resale,1
